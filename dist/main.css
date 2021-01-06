@@ -13,7 +13,7 @@ html, body {
 }
 
 .showcase {
-    background-image: url("./img/sunset3.jpg");
+    background-image: url("./sunset3.jpg");
     background-position: center;
     background-size: cover;
     position: absolute;
