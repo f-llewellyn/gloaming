@@ -1,5 +1,5 @@
 // Imports API key from apiKeys.js
-import { pixabayAPI } from "/dist/apiKeys";
+import { pixabayAPI } from "./apiKeys.js";
 
 // Declares dom variables using a query selector
 const img = document.querySelector("img");
